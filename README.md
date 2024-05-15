@@ -17,15 +17,8 @@ This Flutter project showcases the following features:
 ## Parallax Scrolling Effect
 The project includes a parallax scrolling effect. This creates an engaging and dynamic user experience.
 
-
-https://github.com/DeveloperMalay/flutter_gallery/assets/94185006/a70f1948-d9e4-4171-91c9-b51e2c9a647b
-
-
 ## Hero Animations
 Hero animations are used to create seamless transitions between screens. For instance, when you navigate from the product list to the product details page, a smooth hero animation is applied.
-
-
-https://github.com/DeveloperMalay/flutter_gallery/assets/94185006/931020ec-7940-4af7-8501-331e430b9cb3
 
 
 ## Fading Animations
@@ -50,8 +43,6 @@ Submit a pull request.
 License
 This project is licensed under the LICENSE.
 
-## Contact
-If you have any questions or need any more help, please feel free to contact malay13pandit@gmail.com.
 
 Thank you for checking out this Flutter project! Happy coding!
 
