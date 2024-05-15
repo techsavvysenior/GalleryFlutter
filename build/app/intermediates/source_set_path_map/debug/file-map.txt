@@ -1,0 +1,14 @@
+com.example.gallery.app-jetified-window-1.0.0-beta04-0 /Users/apple/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.gallery.app-jetified-annotation-experimental-1.1.0-1 /Users/apple/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.gallery.app-core-1.6.0-2 /Users/apple/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.gallery.app-jetified-window-java-1.0.0-beta04-3 /Users/apple/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.gallery.app-debug-4 /Users/apple/Downloads/flutter_gallery-main/android/app/src/debug/res
+com.example.gallery.app-main-5 /Users/apple/Downloads/flutter_gallery-main/android/app/src/main/res
+com.example.gallery.app-pngs-6 /Users/apple/Downloads/flutter_gallery-main/build/app/generated/res/pngs/debug
+com.example.gallery.app-resValues-7 /Users/apple/Downloads/flutter_gallery-main/build/app/generated/res/resValues/debug
+com.example.gallery.app-rs-8 /Users/apple/Downloads/flutter_gallery-main/build/app/generated/res/rs/debug
+com.example.gallery.app-mergeDebugResources-9 /Users/apple/Downloads/flutter_gallery-main/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.gallery.app-mergeDebugResources-10 /Users/apple/Downloads/flutter_gallery-main/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.gallery.app-merged_res-11 /Users/apple/Downloads/flutter_gallery-main/build/app/intermediates/merged_res/debug
+com.example.gallery.app-packaged_res-12 /Users/apple/Downloads/flutter_gallery-main/build/path_provider_android/intermediates/packaged_res/debug
+com.example.gallery.app-packaged_res-13 /Users/apple/Downloads/flutter_gallery-main/build/sqflite/intermediates/packaged_res/debug

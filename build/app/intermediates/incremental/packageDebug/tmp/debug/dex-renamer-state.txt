@@ -1,0 +1,4 @@
+#Wed May 15 22:40:05 PKT 2024
+base.0=/Users/apple/Downloads/flutter_gallery-main/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
